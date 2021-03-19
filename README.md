@@ -10,3 +10,7 @@ My primary issue was the writeVal macro as I was not able to succesfully
 convert the integer to a string. This issue resulted in sum and average 
 not being displayed correctly so I plan to return to this assignment in
 the future.
+
+
+
+*Any feedback is welcomed and greatly appreciated.*
